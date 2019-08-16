@@ -1,7 +1,7 @@
 # Virtual-Agent-Framework
 Virtual agent framework
 
-<img style="width:100%;" src="dataexplorer.jpeg">
+<img style="width:100%;" src="virtualagent.jpeg">
 
 AI based virtual agents/chat-bots are on the rise and providing great value to companies and customers. Innovation in speech synthesis, natural language processing and deep learning coupled with availability of large data sets, storage and compute power made it possible to build super smart virtual agents, which optimize over time with self learning.
 
@@ -20,13 +20,13 @@ Agents - Intents, Entities & Dialog Management
 Mobile & Web framework for agents
 SIP (VOIP) based call agents
 
-<img style="width:100%;" src="dataexplorer-arch.jpeg">
+<img style="width:100%;" src="virtualagent-arch.jpeg">
 
-<img style="width:100%;" src="dataexplorer-dialog.jpeg">
+<img style="width:100%;" src="virtualagent-dialog.jpeg">
 
 Deployment
 Agents can be built and managed through InsightLake's web Console and deployed on websites, mobile apps and call center.
-<img style="width:100%;" src="dataexplorer-bot.jpeg">
+<img style="width:100%;" src="virtualagent-bot.jpeg">
 
 Website - Chat/Voice
 Mobile - Chat/Voice
