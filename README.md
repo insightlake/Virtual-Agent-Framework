@@ -26,7 +26,37 @@ SIP (VOIP) based call agents
 
 Deployment
 Agents can be built and managed through InsightLake's web Console and deployed on websites, mobile apps and call center.
-<img style="width:100%;" src="images/virtualagent-bot.jpeg">
+## Assistant Deatils
+* Intents
+<img style="width:100%;" src="images/assistant-details-tab/intent-page.png">
+
+* Entities
+<img style="width:100%;" src="images/assistant-details-tab/entity-page.png">
+
+* Dialog
+<img style="width:100%;" src="images/assistant-details-tab/dialog-view-page.png">
+
+* Content Catalog
+<img style="width:100%;" src="images/assistant-details-tab/content-catalog-page.png">
+
+* Try It Bot
+<img style="width:100%;" src="images/assistant-details-tab/Try-it-out-bot.png">
+
+
+## Assistant View
+
+* Assistants View
+<img style="width:100%;" src="images/assistant-tab/assistant-page.png">
+
+* Skills View
+<img style="width:100%;" src="images/assistant-tab/skill-page.png">
+
+## Designer View
+<img style="width:100%;" src="images/bot-designer-tab/designer.png">
+
+* Customize Dialog
+<img style="width:100%;" src="images/bot-designer-tab/create-dialog-modal.png">
+
 
 Website - Chat/Voice
 Mobile - Chat/Voice
