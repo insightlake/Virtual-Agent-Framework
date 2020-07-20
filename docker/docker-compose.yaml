@@ -1,0 +1,16 @@
+version: "2.0"
+
+services:
+  vagent-backend-service:
+    build:
+      context: ../libs
+      dockerfile: ./virtualagentbacked
+    ports:
+    - 9494:9494
+
+  vagent-ui-service:
+    build:
+      context: ../libs
+      dockerfile: ./virtualagentui
+    ports:
+    - 8080:8080
