@@ -85,7 +85,7 @@ Example : Customers can ask when did I have Thai food? When was my last payment 
 Conclusion
 As virtual agents are getting smarter, they provide a great value to companies and customers. Companies can reduce their customer care costs and improve customer experience. InsightLake enables companies to build a smart data lake and exciting data centric applications like AI based agents.
 
-To learn more, check out [http://insightlake.com/dataexplorer.html](http://insightlake.com/dataexplorer.html)
+To learn more, check out [http://www.insightlake.com/virtual-agents.html](http://www.insightlake.com/virtual-agents.html)
 
 Installation
 ------
