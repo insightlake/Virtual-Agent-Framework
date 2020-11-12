@@ -26,32 +26,56 @@ SIP (VOIP) based call agents
 
 Deployment
 Agents can be built and managed through InsightLake's web Console and deployed on websites, mobile apps and call center.
+
 ## Assistant Deatils
-* Intents
+
+### Intents
+Intent refers to the goal the customer has in mind when typing in a question or comment.
+Intent is a critical factor in chatbot functionality because the chatbot’s ability to parse intent is what ultimately determines the success of the interaction. In order for a chatbot to be good at this, it must: 
+
+* Be programmed well and trained with a useful model involving a lot of training data
+* Take advantage of machine learning to constantly advance and improve
+
 <img style="width:100%;" src="images/assistant-details-tab/intent-page.png">
 
-* Entities
+### Entities
+Entity refers to the modifier the customer uses to describe their issue.
+Entities are connected to knowledge repositories in order to provide more personal and accurate responses on user search. An entity in a chatbot is used to add values to the search intent.
+Entities can be fields, data, or text describing just about anything — a time, place, person, item, number, etc. Using natural language processing (NLP), chatbots can extract entities from entries that users type in in order to turn around accurate recommendations and answers.
+
 <img style="width:100%;" src="images/assistant-details-tab/entity-page.png">
 
-* Dialog
+### Dialog
+Dialogs are a way of implementing a multi-turn conversation, and as such, they rely on persisted state across turns. Without state in dialogs, your bot wouldn't know where it was in the conversation or what information it had already gathered.
+
 <img style="width:100%;" src="images/assistant-details-tab/dialog-view-page.png">
 
-* Content Catalog
+### Content Catalog
+Content Catalogs provide an easy way to add common intents to your Bot Assistant dialog skill.
+
 <img style="width:100%;" src="images/assistant-details-tab/content-catalog-page.png">
 
-* Try It Bot
+### Try It Bot
+This is the chat panel where you simulate user inputs and see the bot response.
+
 <img style="width:100%;" src="images/assistant-details-tab/Try-it-out-bot.png">
 
 
 ## Assistant View
 
-* Assistants View
+### Assistants View
+Assistant is bascically a solution for user that can engage in two-way conversations.
+
 <img style="width:100%;" src="images/assistant-tab/assistant-page.png">
 
-* Skills View
+### Skills View
+A skill is a bot that can perform a set of tasks for another bot. A bot can be both a skill and a user-facing bot. A skill consumer is a bot that can call one or more skills. A user-facing skill consumer is also called a root bot.
+
 <img style="width:100%;" src="images/assistant-tab/skill-page.png">
 
 ## Designer View
+User can create their own assistant just by drag and drop dialogs and customizing the respnonses
+
 <img style="width:100%;" src="images/bot-designer-tab/designer.png">
 
 * Customize Dialog
