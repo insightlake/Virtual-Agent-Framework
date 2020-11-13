@@ -27,6 +27,18 @@ SIP (VOIP) based call agents
 Deployment
 Agents can be built and managed through InsightLake's web Console and deployed on websites, mobile apps and call center.
 
+## Assistant View
+
+### Assistants View
+Assistant is bascically a solution for user that can engage in two-way conversations.
+
+<img style="width:100%;" src="images/assistant-tab/assistant-page.png">
+
+### Skills View
+A skill is a bot that can perform a set of tasks for another bot. A bot can be both a skill and a user-facing bot. A skill consumer is a bot that can call one or more skills. A user-facing skill consumer is also called a root bot.
+
+<img style="width:100%;" src="images/assistant-tab/skill-page.png">
+
 ## Assistant Deatils
 
 ### Intents
@@ -60,26 +72,10 @@ This is the chat panel where you simulate user inputs and see the bot response.
 
 <img style="width:100%;" src="images/assistant-details-tab/Try-it-out-bot.png">
 
-
-## Assistant View
-
-### Assistants View
-Assistant is bascically a solution for user that can engage in two-way conversations.
-
-<img style="width:100%;" src="images/assistant-tab/assistant-page.png">
-
-### Skills View
-A skill is a bot that can perform a set of tasks for another bot. A bot can be both a skill and a user-facing bot. A skill consumer is a bot that can call one or more skills. A user-facing skill consumer is also called a root bot.
-
-<img style="width:100%;" src="images/assistant-tab/skill-page.png">
-
 ## Designer View
 User can create their own assistant just by drag and drop dialogs and customizing the respnonses
 
 <img style="width:100%;" src="images/bot-designer-tab/designer.png">
-
-* Customize Dialog
-<img style="width:100%;" src="images/bot-designer-tab/create-dialog-modal.png">
 
 
 Website - Chat/Voice
